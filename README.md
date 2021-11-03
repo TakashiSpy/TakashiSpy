@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Takashi</h1>
 <h3 align="center">I am an open and curious developer living in Turkey.</h3>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/591220197730287637)](https://discord.com/users/591220197730287637)
 
 - 🔭 I’m currently working on **Callidus System**
 
