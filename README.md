@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/591220197730287637)](https://discord.com/users/591220197730287637)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/591220197730287637?theme=dark&bg=003153&animated=true&borderRadius=20px)](https://discord.com/users/591220197730287637)
 <h1 align="center">Hi 👋, I'm Takashi</h1>
 <h3 align="center">I am an open and curious developer living in Turkey.</h3>
 
