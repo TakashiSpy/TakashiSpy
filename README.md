@@ -1,7 +1,6 @@
 ### Hi I'm Takashi 👋
-
-<img src="https://komarev.com/ghpvc/?username=takashi&label=Profile%20Viewers&color=37fa3f" alt="takashi" />
 <br><img src="https://komarev.com/ghpvc/?username=TakashiSpy">
+<img src="https://komarev.com/ghpvc/?username=takashi&label=Profile%20Viewers&color=37fa3f" alt="takashi" />
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/591220197730287637?theme=light&bg=1c1c1c&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/591220197730287637)
 
 I've been interested in software and design for a long time.
